@@ -3,9 +3,9 @@
 | Course | CMPE150 |
 | :-| :-|
 | Instructor | Murat Özyurt |
-| Course Schedule | Murat Özyurt |
-| Lab Schedule | Murat Özyurt |
-| PS schedule | Murat Özyurt |
+| Course Schedule | TT 12 |
+| Lab Schedule | WWThTh 3434 |
+| PS schedule | WWThTh 1212 |
 
 
 ### Course Program
