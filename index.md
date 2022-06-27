@@ -24,13 +24,14 @@ We are going to use PyCharm and Teaching.Codes.
 Link for the installation manual is available at https://programming.cmpe.boun.edu.tr
 
 ### Grading
+
 | Grade Item | Percentage |
 | :- | :- |
-|Workshops| 15 % (Cummulative max, not weighted)|
-|Quizzes| 25% (Cummulative max, not weighted)|
-|Project| 20 %|
-|Midterm | 20 %|
-|Final | 20 %|
+|Workshops| 15% (Cumulative max, not weighted)|
+|Quizzes| 25% (Cumulative max, not weighted)|
+|Project| 20%|
+|Midterm | 20%|
+|Final | 20%|
 
 - You should complete at least 45% of the course work for a DD.
 - Students completing at least 90% of the course work will receive an AA.
