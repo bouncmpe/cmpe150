@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+## CmpE 150 Introduction to Computing
 
-You can use the [editor on GitHub](https://github.com/bouncmpe/cmpe150/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+| Course | CMPE150 |
+| :-| :-|
+| Instructor | Murat Özyurt |
+| Course Schedule | Murat Özyurt |
+| Lab Schedule | Murat Özyurt |
+| PS schedule | Murat Özyurt |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Course Program
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Summer course will be in-class and not online.
+- Capacity is limited to 40 students due to pyhsical restrictions.
+- There will be in-class workshop and quiz activities to be graded after the lectures.
+- The students are expected to study the course content before each class.
+- There is no extra registration to LABs after successfully registering to the course. The respective message on the registration page can be ignored.
 
-```markdown
-Syntax highlighted code block
+Please contact cmpe150.mail@gmail.com for your inquiries.
 
-# Header 1
-## Header 2
-### Header 3
+Your email address stored in the registration system is your official contact address.
 
-- Bulleted
-- List
+We are going to use PyCharm and Teaching.Codes.
+Link for the installation manual is available at https://programming.cmpe.boun.edu.tr
 
-1. Numbered
-2. List
+### Grading
+| Grade Item | Percentage |
+| :- | :- |
+|Workshops| 15 % (Cummulative max, not weighted)|
+|Quizzes| 25% (Cummulative max, not weighted)|
+|Project| 20 %|
+|Midterm | 20 %|
+|Final | 20 %|
 
-**Bold** and _Italic_ and `Code` text
+- You should complete at least 45% of the course work for a DD.
+- Students completing at least 90% of the course work will receive an AA.
+- The rest will be graded with respect to the curve.
 
-[Link](url) and ![Image](src)
-```
+### Notes
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+|Program (Tentative)| |
+| :- | :- |
+|Tuesday|  Lecture & Midterm & Final |
+|Wednesday| Lecture, Practice, Break, Workshop |
+|Thursday| Lecture, Practice, Break, Quiz |
 
-### Jekyll Themes
+If you do not attend the practice session, your grade will not be counted for the following workshop or quiz, however you can attend them if you wish.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bouncmpe/cmpe150/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Date | Day | Hours |     | 1-2 | 3-4 | Grade | Topics |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022.06.28 | Tue | 12  |     | INTRODUCTION |     |     | Introduction to Python |
+| 2022.06.29 | Wed | 1234 |     | Lecture + Practice | Workshop | 3   | Turtle Graphics |
+| 2022.06.30 | Thu | 1234 |     | Lecture + Practice | Quiz | 5   | Basic Mathematical Expressions |
+|     |     |     |     | Project Announcement |     |     |     |
+| 2022.07.05 | Tue | 12  |     | Lecture + Practice |     |     | Text IO + File Operations |
+| 2022.07.06 | Wed | 1234 |     | Lecture + Practice | Workshop | 3   | Drawing with Input |
+| 2022.07.07 | Thu | 1234 |     | Lecture + Practice | Quiz | 5   | Repeating Instructions |
+|     |     |     |     | HOLIDAY WEEK |     |     |     |
+| 2022.07.19 | Tue | 12  |     | Lecture + Practice |     |     | for Loops in Detail |
+| 2022.07.20 | Wed | 1234 |     | Lecture + Practice | Workshop | 3   | Printing Console Shapes with for Loops |
+| 2022.07.21 | Thu | 1234 |     | Lecture + Practice | Quiz | 5   | Random Numbers and Tuples |
+| 2022.07.26 | Tue | 12  |     | Lecture + Practice |     |     | if elif else + Logic |
+| 2022.07.27 | Wed | 1234 |     | Lecture + Practice | Workshop | 3   | Recursive Functions |
+| 2022.07.28 | Thu | 1234 |     | Lecture + Practice | Quiz | 5   | Algorithms |
+|     |     |     |     | PROJECT Deadline 2022.08.02 09:00 |     | 20  |     |
+| 2022.08.02 | Tue | 12  |     | MIDTERM 09:00 |     | 20  |     |
+| 2022.08.03 | Wed | 1234 |     | Lecture + Practice | Workshop | 3   | Conditional Loop |
+| 2022.08.04 | Thu | 1234 |     | Lecture + Practice | Quiz | 5   | String |
+| 2022.08.09 | Tue | 12  |     | Lecture + Practice |     |     | List |
+| 2022.08.10 | Wed | 1234 |     | Lecture + Practice | Workshop | 3   | Dictionary |
+| 2022.08.11 | Thu | 1234 |     | Lecture + Practice | Quiz | 5   | Animating Shapes |
+| 2022.08.16 | Tue | 12  |     | Lecture + Practice |     |     | Interactive Programming |
+|     |     |     |     | FINAL |     | 20  |     |
